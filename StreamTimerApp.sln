@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamTimerApp", "StreamTimerApp\StreamTimerApp.csproj", "{97F49F40-E225-4159-A774-4B048B8DE668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97F49F40-E225-4159-A774-4B048B8DE668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F49F40-E225-4159-A774-4B048B8DE668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F49F40-E225-4159-A774-4B048B8DE668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F49F40-E225-4159-A774-4B048B8DE668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94F425B6-5269-423A-B7E5-3C8E710580DF}
+	EndGlobalSection
+EndGlobal
