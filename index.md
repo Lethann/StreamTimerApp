@@ -16,7 +16,7 @@ For now the Simple Timer is done and ready to share. So enjoy!
 2. Run the StreamTimerApp.exe file
 NOTE: I'm looking to get an actual installer made.
 
-[Version1Screenshot](https://user-images.githubusercontent.com/25929754/113521923-4d3b5600-9562-11eb-8b00-017cae87386d.png)
+![](https://user-images.githubusercontent.com/25929754/113521923-4d3b5600-9562-11eb-8b00-017cae87386d.png)
 
 
 ## Simple Timer Instructions:
