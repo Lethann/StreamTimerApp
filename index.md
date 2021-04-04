@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Welcome to the StreamTimerApp wiki!
 
-You can use the [editor on GitHub](https://github.com/Lethann/StreamTimerApp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Shoutout to [JimmyAppelt's SNAZ](https://github.com/JimmyAppelt/Snaz/wiki) for inspiration. No code was used from there, this is all my own._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is the StreamTimerApp?
 
-### Markdown
+The Stream Timer App is a simple timer that outputs to a text file that any stream broadcasting software (obs/slobs/etc) can read and add a customizable repeating timer on your overlay. It can optionally play a wave file when the timer is finished.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Why make StreamTimerApp?
 
-```markdown
-Syntax highlighted code block
+I'm a streamer and mostly stream Creative Writing. The Twitch Writers Network and other writing streams have brought the concept of the "Sprint Timer" and introduced it as a way for both streamer and viewer to interact. I was directed to SNAZ but after awhile I realized it wasn't exactly what I wanted. The timers were all one-offs and I needed something that repeated. Thus the StreamTimerApp was born. It's my first C# program and it's my learning experience. 
 
-# Header 1
-## Header 2
-### Header 3
+For now the Simple Timer is done and ready to share. So enjoy!
 
-- Bulleted
-- List
+## Instillation:
 
-1. Numbered
-2. List
+1. Download the [latest release](https://github.com/Lethann/StreamTimerApp/releases) and extract the files to a selected location on your computer.
+2. Run the StreamTimerApp.exe file
+NOTE: I'm looking to get an actual installer made.
 
-**Bold** and _Italic_ and `Code` text
+## Simple Timer Instructions:
 
-[Link](url) and ![Image](src)
-```
+1. Click "Browse" button and select or create your txt file.
+2. Enter the number of Minutes you want the timer to last.
+3. Type in any label or message you want displayed with your timer.
+4. OPTIONAL: Choose a short WAV file to play at the end of the timer.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Using your streaming software, create a Text Source and tell it to read from a file, using the text file from step 1. 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lethann/StreamTimerApp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
