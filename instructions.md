@@ -6,7 +6,9 @@ StreamTimerApp is completely portable and can be moved around your computer with
 
 1. Download the latest release .zip file (the StreamTimerAppV#.zip file)
 2. Unzip to chosen folder. Example: c:/program files/StreamTimerApp
-![](https://github.com/Lethann/StreamTimerApp/blob/891d79627682415f53586cfb606b7a59e8994c6e/Screenshot%202021-04-09%20094435.png)
+
+![](https://user-images.githubusercontent.com/25929754/114208125-c3550980-9922-11eb-8219-4a14048190bc.png)
+
 3. Run StreamTimerApp.exe
 4. You may be prompted to install .Net Core if you don't have it already installed.
 
@@ -18,7 +20,7 @@ The Simple Timer is currently a single message, auto repeating timer that sends 
 
 1. Output File: Click the "Browse" button and select or create your your EMPTY txt file. Example: c:/program files/StreamTimerApp/TimerSource.txt
 
-![](https://github.com/Lethann/StreamTimerApp/blob/891d79627682415f53586cfb606b7a59e8994c6e/Screenshot%202021-04-09%20094436.png)
+![](https://user-images.githubusercontent.com/25929754/114208203-d9fb6080-9922-11eb-9b00-8a86d639becf.png)
 
 2. Minutes: Type the number of minutes you want the timer to last.
 3. Message: Type the short message you wish to appear alongside your timer.
@@ -37,15 +39,15 @@ To help those who are using OBS/SLOBS here is how you get it to work in your sof
 3. Add new source by clicking the + sign at the top of the "Sources" box.
 4. Select TEXT (GDI+)
 
-![](https://github.com/Lethann/StreamTimerApp/blob/82913e422f44733fb8bc3850e243035b8c9bedea/Screenshot%202021-04-09%20103335.png)
+![](https://user-images.githubusercontent.com/25929754/114208422-1202a380-9923-11eb-9609-ab56cd53f990.png)
 
 5. In the Properties window, you want to check "READ FROM FILE". Use the Browse button to find the text file or simply or copy the location from the Output File box in the App.  NOTE: Nothing will appear until you start the timer, so suggest setting up a test timer while you are setting this up. 
 
-![](https://github.com/Lethann/StreamTimerApp/blob/82913e422f44733fb8bc3850e243035b8c9bedea/Screenshot%202021-04-09%20103611.png)
+![](https://user-images.githubusercontent.com/25929754/114208464-1fb82900-9923-11eb-9391-572773d101fa.png)
 
 6. Use the settings avaliable in the properties window to customize the font, color, size of the timer text.
 
-![](https://github.com/Lethann/StreamTimerApp/blob/82913e422f44733fb8bc3850e243035b8c9bedea/Screenshot%202021-04-09%20103742.png)
+![](https://user-images.githubusercontent.com/25929754/114208516-2ba3eb00-9923-11eb-9a54-edc2ee890fc4.png)
 
 7. Click "DONE".
 8. You should never have to change this unless you change the location of the Output Text File. 
