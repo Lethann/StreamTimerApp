@@ -19,14 +19,7 @@ NOTE: I'm looking to get an actual installer made.
 ![](https://user-images.githubusercontent.com/25929754/113521923-4d3b5600-9562-11eb-8b00-017cae87386d.png)
 
 
-## Simple Timer Instructions:
-
-1. Click "Browse" button and select or create your txt file.
-2. Enter the number of Minutes you want the timer to last.
-3. Type in any label or message you want displayed with your timer.
-4. OPTIONAL: Choose a short WAV file to play at the end of the timer.
-
-Using your streaming software, create a Text Source and tell it to read from a file, using the text file from step 1. 
+[Go HERE for more detailed Instructions](https://lethann.github.io/StreamTimerApp/instructions.html)
 
 
 
