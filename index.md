@@ -1,8 +1,10 @@
 _Shoutout to [JimmyAppelt's SNAZ](https://github.com/JimmyAppelt/Snaz/wiki) for inspiration. No code was used from there, this is all my own._
 
-# [Go HERE for more detailed Instructions](https://lethann.github.io/StreamTimerApp/instructions.html)
-# [Report any bugs or feature requests](https://github.com/Lethann/StreamTimerApp/issues)
-# [Discuss the App HERE](https://github.com/Lethann/StreamTimerApp/discussions)
+## [Go HERE for more detailed Instructions](https://lethann.github.io/StreamTimerApp/instructions.html)
+
+## [Report any bugs or feature requests](https://github.com/Lethann/StreamTimerApp/issues)
+
+## [Discuss the App HERE](https://github.com/Lethann/StreamTimerApp/discussions)
 
 ## What is the StreamTimerApp?
 
