@@ -1,6 +1,6 @@
-#Instructions
+# Instructions
 
-##Instillation
+## Instillation
 
 StreamTimerApp is completely portable and can be moved around your computer with no issues. It can even be run off a USB device if you want to.
 
@@ -10,7 +10,7 @@ StreamTimerApp is completely portable and can be moved around your computer with
 3. Run StreamTimerApp.exe
 4. You may be prompted to install .Net Core if you don't have it already installed.
 
-##Simple Timer
+## Simple Timer
 
 The Simple Timer is currently a single message, auto repeating timer that sends the countdown to a text file your Broadcasting Software (Obs/Slobs) can then read. Clicking on the "About" tab will give you simple instructions, and hovering over a text box will give a short description along the bottom.
 
@@ -27,7 +27,7 @@ The Simple Timer is currently a single message, auto repeating timer that sends 
 
 NOTE: The timer will NOT STOP until the Stop button is clicked. If the program is closed without clicking stop then the text file will not be cleared out.
 
-##OBS/SLOBS Instructions
+## OBS/SLOBS Instructions
 
 To help those who are using OBS/SLOBS here is how you get it to work in your software. (Screenshots are using SLOBS but both are pretty much the same.)
 
