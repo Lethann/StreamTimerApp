@@ -17,6 +17,7 @@ The Simple Timer is currently a single message, auto repeating timer that sends 
 ![](https://user-images.githubusercontent.com/25929754/113521923-4d3b5600-9562-11eb-8b00-017cae87386d.png)
 
 1. Output File: Click the "Browse" button and select or create your your EMPTY txt file. Example: c:/program files/StreamTimerApp/TimerSource.txt
+
 ![](https://github.com/Lethann/StreamTimerApp/blob/891d79627682415f53586cfb606b7a59e8994c6e/Screenshot%202021-04-09%20094436.png)
 
 2. Minutes: Type the number of minutes you want the timer to last.
@@ -35,7 +36,16 @@ To help those who are using OBS/SLOBS here is how you get it to work in your sof
 2. Click the "Scene" you want to add the timer to.
 3. Add new source by clicking the + sign at the top of the "Sources" box.
 4. Select TEXT (GDI+)
+
+![](https://github.com/Lethann/StreamTimerApp/blob/82913e422f44733fb8bc3850e243035b8c9bedea/Screenshot%202021-04-09%20103335.png)
+
 5. In the Properties window, you want to check "READ FROM FILE". Use the Browse button to find the text file or simply or copy the location from the Output File box in the App.  NOTE: Nothing will appear until you start the timer, so suggest setting up a test timer while you are setting this up. 
+
+![](https://github.com/Lethann/StreamTimerApp/blob/82913e422f44733fb8bc3850e243035b8c9bedea/Screenshot%202021-04-09%20103611.png)
+
 6. Use the settings avaliable in the properties window to customize the font, color, size of the timer text.
+
+![](https://github.com/Lethann/StreamTimerApp/blob/82913e422f44733fb8bc3850e243035b8c9bedea/Screenshot%202021-04-09%20103742.png)
+
 7. Click "DONE".
 8. You should never have to change this unless you change the location of the Output Text File. 
