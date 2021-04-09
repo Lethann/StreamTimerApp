@@ -1,5 +1,9 @@
 _Shoutout to [JimmyAppelt's SNAZ](https://github.com/JimmyAppelt/Snaz/wiki) for inspiration. No code was used from there, this is all my own._
 
+# [Go HERE for more detailed Instructions](https://lethann.github.io/StreamTimerApp/instructions.html)
+# [Report any bugs or feature requests](https://github.com/Lethann/StreamTimerApp/issues)
+# [Discuss the App HERE](https://github.com/Lethann/StreamTimerApp/discussions)
+
 ## What is the StreamTimerApp?
 
 The Stream Timer App is a simple timer that outputs to a text file that any stream broadcasting software (obs/slobs/etc) can read and add a customizable repeating timer on your overlay. It can optionally play a wave file when the timer is finished.!
@@ -19,7 +23,7 @@ NOTE: I'm looking to get an actual installer made.
 ![](https://user-images.githubusercontent.com/25929754/113521923-4d3b5600-9562-11eb-8b00-017cae87386d.png)
 
 
-# [Go HERE for more detailed Instructions](https://lethann.github.io/StreamTimerApp/instructions.html)
+
 
 
 
