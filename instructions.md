@@ -26,7 +26,7 @@ The Simple Timer is currently a single message, auto repeating timer that sends 
 3. Message: Type the short message you wish to appear alongside your timer.
 4. OPTIONAL End Sound: Click the "Browse" button and select a short wav file to play at the end of the timer. Note: There is 5 seconds after a timer finishes before it starts again. 
 5. CLICK "START" to start the timer.
-6. Click "STOP" to stop the timer at any time. It will empty out the txt file so it will not display anything in your broadcasting software. 
+6. Click "STOP" to stop the timer at any time. 
 
 NOTE: The timer will NOT STOP until the Stop button is clicked. If the program is closed without clicking stop then the text file will not be cleared out.
 
