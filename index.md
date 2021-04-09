@@ -19,7 +19,7 @@ NOTE: I'm looking to get an actual installer made.
 ![](https://user-images.githubusercontent.com/25929754/113521923-4d3b5600-9562-11eb-8b00-017cae87386d.png)
 
 
-[Go HERE for more detailed Instructions](https://lethann.github.io/StreamTimerApp/instructions.html)
+# [Go HERE for more detailed Instructions](https://lethann.github.io/StreamTimerApp/instructions.html)
 
 
 
